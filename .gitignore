@@ -1,0 +1,6 @@
+# Terraform: state holds account IDs, tfvars is per-user, .terraform is provider cache
+terraform/.terraform/
+terraform/.terraform.lock.hcl
+terraform/terraform.tfstate*
+.venv/
+__pycache__/
